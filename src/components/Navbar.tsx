@@ -11,19 +11,11 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-16">
           <div className="flex">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <motion.img
-                initial={{ rotate: -10 }}
-                animate={{ rotate: 0 }}
-                transition={{ duration: 0.5 }}
-                className="h-10 w-auto"
-                src="/logo.svg"
-                alt="MaisonsUr Mesure"
-              />
               <motion.span 
                 initial={{ opacity: 0, x: -20 }}
                 animate={{ opacity: 1, x: 0 }}
                 transition={{ delay: 0.2 }}
-                className="ml-3 font-bold text-xl text-indigo-800">MaisonsUr Mesure</motion.span>
+                className="font-bold text-xl text-indigo-800">Menuiserie Sur Mesure</motion.span>
             </Link>
             <div className="hidden sm:ml-6 sm:flex sm:space-x-8">
               <Link to="/" className="border-indigo-500 text-gray-900 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
