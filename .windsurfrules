@@ -1,0 +1,27 @@
+Tu dois t'assurer que la tâche est **complètement terminée avec succès**, **sans aucune erreur**. Cela implique les étapes suivantes :
+
+1. 🔍 **Analyse complète du code existant.**
+   - Identifie précisément ce qui doit être modifié ou ajouté.
+
+2. 🛠 **Modification du code jusqu'à atteinte de l'objectif défini.**
+   - Applique les changements nécessaires avec précision.
+   - Optimise si besoin.
+
+3. ✅ **Vérification de stabilité.**
+   - S'assure qu'il **n'y a aucune erreur de syntaxe** (TypeScript, JSX, etc).
+   - S'assure qu'il **n'y a aucune erreur logique** (erreur de flux, incohérences, etc).
+   - Vérifie que **tout est prêt à fonctionner correctement**.
+
+4. 🚀 **Lancement obligatoire de l'application localement pour validation.**
+   - Tu dois absolument exécuter l'application **localement** pour t'assurer que tout fonctionne correctement dans un navigateur.
+   - **Tu ne dois en aucun cas ouvrir ou déclencher l'ouverture du navigateur automatiquement.**
+   - Le but est de vérifier manuellement que tout s’exécute sans erreurs visibles dans le terminal ou dans le serveur local.
+
+5. 🚫 **Interdiction stricte de considérer la tâche comme terminée tant que :**
+   - Des modifications sont encore en attente ou en cours.
+   - Le code peut entraîner une erreur.
+   - Des doutes subsistent sur la complétion de la tâche.
+
+---
+
+> **Cette règle est non-négociable. Le respect strict de ce protocole garantit la fiabilité du processus.**
